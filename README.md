@@ -20,3 +20,4 @@ Yes, there are accompanying images for every movie in every cell.
 
 
 Overall, this project was difficult, but it helped to become better at conceptualizing a better UI and user experience for a user who may want a quick and easy way to see what movies are running at the moment. I also got to learn more about APIs when I had no prior knowledge about using them.
+![IMG_5603](https://user-images.githubusercontent.com/96831510/189509968-11d524b6-170c-4170-bf31-b0a7acb41639.gif)
