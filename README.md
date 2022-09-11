@@ -1,3 +1,4 @@
+![IMG_5603](https://user-images.githubusercontent.com/96831510/189509951-0a15cc6a-e618-4bd1-8df9-99e9991b2b4c.gif)
 #### REQUIRED (10pts)
 - [through moviecell user could see more details about a movie by tapping an individual cell] (5pts) User can tap a cell to see more details about a particular movie.
 - [yes, the user was able to view using a grid layout through the collectionview and moviesviewcontroller] (5pts) User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
